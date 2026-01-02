@@ -17,7 +17,7 @@ la plataforma abarcará:
 - Generar adjuducacion
   
 ## Funciones No obligatorias pero que mejoran la plataforma 
--Consulta de histirla 
+-Consulta de hitorial 
 -Pagos
 - edicon de perfil 
 - Compativilidad con dispositivos moviles y pc
